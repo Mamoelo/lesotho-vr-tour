@@ -1,0 +1,3 @@
+# Unity WebGL build artifacts - too large for GitHub
+Build/export_web.wasm
+Build/export_web.data
